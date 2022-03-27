@@ -1,9 +1,9 @@
-### Welcome to `beemayesdev` 👋
+# Welcome to `beemayesdev` 👋
 
 ## Bio - Who is beemayesdev? 
 My name is Briana, but you can call me Bee 🐝. I am a 🌈 queer software developer from 📍 Houston, TX. My pronouns are they/them/boss, so please use them accordingly! I have a passion for STEM education with a goal to bridge the gap for underrepresented communities, specifically Black and Brown youth. One of my life goals is to return to my highschool as one of the first Computer Science teachers. I continue to learn and develop new technology skills so I can pay it forward and share the knowledge I learn. 
 
-# Interests
+### Interests
 🎮 Gaming (Crash Bandicoot, The Sims 4, Animal Crossing)  
 📖 Reading  
 🍎 Nutrition & Fitness  
@@ -18,7 +18,7 @@ This a list of skills I am `currently learning` and projects I am in the process
 
 I am currently working on completing the [Fullstack Open Course](https://fullstackopen.com/en/) from the University of Helsinki and you can follow my progress [here](https://github.com/briananmayes/fullstackopen). 
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/brianamayes/)  
 [Twitter](https://twitter.com/byprieta)
 
