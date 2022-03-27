@@ -1,13 +1,13 @@
 ### Welcome to `beemayesdev` 👋
 
 ## Bio - Who is beemayesdev? 
-My name is Briana, but you can call me Bee. I am a queer software developer from Houston, TX. My pronouns are they/them/boss, so please use them accordingly! I have a passion for STEM education with a goal to bridge the gap for underrepresented communities, specifically Black and Brown youth. One of my life goals is to return to my highschool as one of the first Computer Science teachers. I continue to learn and develop new technology skills so I can pay it forward and share the knowledge I learn. 
+My name is Briana, but you can call me Bee 🐝. I am a 🌈 queer software developer from 📍 Houston, TX. My pronouns are they/them/boss, so please use them accordingly! I have a passion for STEM education with a goal to bridge the gap for underrepresented communities, specifically Black and Brown youth. One of my life goals is to return to my highschool as one of the first Computer Science teachers. I continue to learn and develop new technology skills so I can pay it forward and share the knowledge I learn. 
 
 # Interests
-🎮 Gaming (Crash Bandicoot, The Sims 4, Animal Crossing)
-📖 Reading
-🍎 Nutrition & Fitness
-🐈‍⬛ My cat Noche 
+🎮 Gaming (Crash Bandicoot, The Sims 4, Animal Crossing)  
+📖 Reading  
+🍎 Nutrition & Fitness  
+🐈‍⬛ My cat Noche  
 
 
 ## Skills & Projects 
