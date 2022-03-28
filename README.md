@@ -3,9 +3,7 @@
 ## Bio - Who is beemayesdev? 
 My name is Briana, but you can call me Bee 🐝. I am a 🌈 queer software developer from 📍 Houston, TX. My pronouns are they/them/boss, so please use them accordingly! I am a full-stack developer at heart, but I am currently focusing on mastering front-end technologies to develop creative and dynamic UIs. I enjoy creating REST APIs and working with relational databases. I also like to learn about and tinker with AI/ML, Data Analytics, and Game Development! Stay tuned for more projects 😄!
 
-<div align="center">
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=1248168683)
-</div>
 
 ### Interests
 📖 Reading  
