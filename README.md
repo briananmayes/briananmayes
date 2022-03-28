@@ -29,7 +29,6 @@ I am currently working on completing the [Fullstack Open Course](https://fullsta
 
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/brianamayes/)  
-[Twitter](https://twitter.com/byprieta)
 
 <!--
 **briananmayes/briananmayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
