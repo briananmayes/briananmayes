@@ -8,10 +8,10 @@ My name is Briana, but you can call me Bee 🐝. I am a 🌈 queer software deve
 ### Interests
 📖 Reading  
 🍎 Nutrition & Body Movement 
-🎧 DJing
-🎮 Gaming (Crash Bandicoot, The Sims 4, Animal Crossing)    
-💃 Dance
-🔮 Astrology
+🎧 DJing  
+🎮 Gaming (Crash Bandicoot, The Sims 4, Animal Crossing)      
+💃 Dance  
+🔮 Astrology  
 🐈‍⬛ My cat Noche  
 
 
