@@ -18,7 +18,7 @@ My name is Briana, but you can call me Bee 🐝. I am a 🌈 queer software deve
 
 
 ## Skills & Projects 
-I am currently learning `react`, `node.js`, `express.js`, `graphql` through completing the [Fullstack Open Course](https://fullstackopen.com/en/) from the University of Helsinki. You can follow my progress through the course [here](https://github.com/briananmayes/fullstackopen) 🤓. 
+I am currently learning `react`, `redux`, `graphql`, and `mongodb` through completing the [Fullstack Open Course](https://fullstackopen.com/en/) from the University of Helsinki. You can follow my progress through the course [here](https://github.com/briananmayes/fullstackopen) 🤓. 
 
 ### My Tech Stack 
 
@@ -26,6 +26,8 @@ I am currently learning `react`, `node.js`, `express.js`, `graphql` through comp
 ![image](https://user-images.githubusercontent.com/20228757/160516382-f5c41794-ddf1-4411-b4ea-0dae11125fcf.png)
 ![image](https://user-images.githubusercontent.com/20228757/160516480-38859de7-e5aa-4370-b842-8dec28505c83.png)
 ![image](https://user-images.githubusercontent.com/20228757/160516555-af7cc6c3-c7f1-4ea1-97b4-a9037cac3b1d.png)
+![image](https://user-images.githubusercontent.com/20228757/160517398-1043de84-8f7a-4bb6-a387-1ed210c13b7b.png)
+![image](https://user-images.githubusercontent.com/20228757/160517479-aed04b15-52b8-424f-afb6-9e5f6aa74464.png)
 ![image](https://user-images.githubusercontent.com/20228757/160516610-de194e67-ef0a-49b6-a929-b88bd310ab43.png)
 ![image](https://user-images.githubusercontent.com/20228757/160516663-e0c60813-c10c-44dd-9411-18bc39a8469d.png)
 ![image](https://user-images.githubusercontent.com/20228757/160516725-74b73b87-06de-429d-bb74-31770d5feb5f.png)
